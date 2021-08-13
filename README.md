@@ -17,6 +17,7 @@ List of public resources, documents, and tools for Osmosis.
 ### Relayer infrastructure providers
 - [Cephalopod Equipment](https://cephalopod.equipment/)
 - [Vitwit](https://www.vitwit.com/)
+- [Notional](https://github.com/faddat/notional)
 
 ### Validator snapshots & syncing
 - [3Tekos Validator](https://3tekos.fr/#Archives)
@@ -26,3 +27,13 @@ List of public resources, documents, and tools for Osmosis.
 - [DataHub](https://datahub.figment.io)
 - [Stake Systems](https://www.notion.so/Stake-Systems-LCD-RPC-gRPC-Instances-04a99a9a9aa14247a42944931eec7024) - LCD(REST)/RPC/gRPC
 - [Skynet Validator](http://202.61.192.186:26657/status) - RPC only
+
+### Archive Nodes
+* Notional (open and primed for state syncing)
+  * [One](http://144.76.183.180:2001)
+  * [Two](http://5.9.106.185:2001) 
+
+
+### Documentation / Guides
+- [Edge Validation](https://whimsical.com/validatron-PbUypC8tVMU8DxCFNLdDFu)
+- [Relaying](https://github.com/faddat/notional)
