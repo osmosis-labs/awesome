@@ -13,6 +13,7 @@ List of public resources, documents, and tools for Osmosis.
 - [Imperator Osmosis Dashboard](https://osmosis.imperator.co/)
 - [Map of Zones](https://mapofzones.com)
 - [Smartstake staking dashboard](https://osmosis.smartstake.io/)
+- [Cosmissed by Blockpane](https://github.com/blockpane/cosmissed)
 
 ### Relayer infrastructure providers
 - [Cephalopod Equipment](https://cephalopod.equipment/)
@@ -33,7 +34,9 @@ List of public resources, documents, and tools for Osmosis.
   * [One](http://144.76.183.180:2001)
   * [Two](http://5.9.106.185:2001) 
 
-
 ### Documentation / Guides
 - [Edge Validation](https://whimsical.com/validatron-PbUypC8tVMU8DxCFNLdDFu)
 - [Relaying](https://github.com/faddat/notional)
+
+### Decentralization and resilience tools
+- [tradeberry](https://github.com/faddat/tradeberry) - Stateless rpi image that state syncs osmosis and allows access to the UI in a private, sovereign manner.
