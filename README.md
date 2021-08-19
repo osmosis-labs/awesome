@@ -30,13 +30,18 @@ List of public resources, documents, and tools for Osmosis.
 - [Skynet Validator](http://202.61.192.186:26657/status) - RPC only
 
 ### Archive Nodes
-* Notional (open and primed for state syncing)
-  * [One](http://144.76.183.180:2001)
-  * [Two](http://5.9.106.185:2001) 
+- Notional (open and primed for state syncing)
+  - [One](http://144.76.183.180:2001)
+  - [Two](http://5.9.106.185:2001) 
+- Seed nodes
+  - 2308bed9e096a8b96d2aa343acc1147813c59ed2@3.225.38.25:26656
+
 
 ### Documentation / Guides
 - [Edge Validation](https://whimsical.com/validatron-PbUypC8tVMU8DxCFNLdDFu)
 - [Relaying](https://github.com/faddat/notional)
+- [Listing IBC tokens to Osmosis](./guides/token-listing.md)
+- [Setting up a full node for Osmosis-1](https://catboss.medium.com/cat-boss-setting-up-a-fullnode-for-osmosis-osmosis-1-5f9752460f8f) / [Turning a full node into a validator node](https://catboss.medium.com/turning-a-full-node-in-to-a-validator-node-osmosis-1-36f3358f2412)
 
 ### Decentralization and resilience tools
-- [tradeberry](https://github.com/faddat/tradeberry) - Stateless rpi image that state syncs osmosis and allows access to the UI in a private, sovereign manner.
+- [Tradeberry](https://github.com/faddat/tradeberry) - Stateless rpi image that state syncs osmosis and allows access to the UI in a private, sovereign manner.
