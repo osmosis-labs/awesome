@@ -39,4 +39,4 @@ List of public resources, documents, and tools for Osmosis.
 - [Relaying](https://github.com/faddat/notional)
 
 ### Decentralization and resilience tools
-- [tradeberry](https://github.com/blockpane/cosmissed) - Stateless rpi image that state syncs osmosis and allows access to the UI in a private, sovereign manner.
+- [tradeberry](https://github.com/faddat/tradeberry) - Stateless rpi image that state syncs osmosis and allows access to the UI in a private, sovereign manner.
