@@ -34,7 +34,9 @@ List of public resources, documents, and tools for Osmosis.
   - [One](http://144.76.183.180:2001)
   - [Two](http://5.9.106.185:2001) 
 - Seed nodes
-  - 2308bed9e096a8b96d2aa343acc1147813c59ed2@3.225.38.25:26656
+  - `2308bed9e096a8b96d2aa343acc1147813c59ed2@3.225.38.25:26656`
+  - `1b077d96ceeba7ef503fb048f343a538b2dcdf1b@136.243.218.244` (Provided by Smartnodes)
+  - `902bdfe51b6a97cc9369664a21c87ed61d471d2a@136.243.218.243` (Provided by Smartnodes)
 
 
 ### Documentation / Guides
