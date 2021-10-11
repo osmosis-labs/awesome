@@ -30,13 +30,16 @@ List of public resources, documents, and tools for Osmosis.
 - [Skynet Validator](http://202.61.192.186:26657/status) - RPC only
 
 ### Archive Nodes
-- Notional (open and primed for state syncing)
-  - [One](http://144.76.183.180:2001)
-  - [Two](http://5.9.106.185:2001) 
+- Notional's bus bar
+  - 28f61c154c82f0122a841a12f8aa87703bd6ae1e@162.55.132.230:2000
+
+You'd want to add the bus bar as a persistent peer. It can accept a vast number of connections, and can be used in a manner analagous to a seed node since it will do PEX with you.  It is not a seed node. 
+
 - Seed nodes
   - `2308bed9e096a8b96d2aa343acc1147813c59ed2@3.225.38.25:26656`
-  - `1b077d96ceeba7ef503fb048f343a538b2dcdf1b@136.243.218.244` (Provided by Smartnodes)
-  - `902bdfe51b6a97cc9369664a21c87ed61d471d2a@136.243.218.243` (Provided by Smartnodes)
+  - `1b077d96ceeba7ef503fb048f343a538b2dcdf1b@136.243.218.244:26656` (Provided by Smartnodes)
+  - `902bdfe51b6a97cc9369664a21c87ed61d471d2a@136.243.218.243:26656` (Provided by Smartnodes)
+  - `f515a8599b40f0e84dfad935ba414674ab11a668@osmosis.blockpane.com:26656` (Provided by BlockPane)
 
 
 ### Documentation / Guides
