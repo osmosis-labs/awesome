@@ -2,6 +2,9 @@
 
 snapshot by [ChainLayer QuickSync](https://quicksync.io/networks/osmosis.html)
 
+#### ※ Before spin it :
+You need to add Peers in
+ `#PEERS = ""` (4L)
 
 #### Spin it : 
  ```bash
