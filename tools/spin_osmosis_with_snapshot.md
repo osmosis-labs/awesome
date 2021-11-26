@@ -1,4 +1,4 @@
-## Spin Osmosis Full Node
+## Spin Osmosis Node
 
 snapshot by [ChainLayer QuickSync](https://quicksync.io/networks/osmosis.html)
 
