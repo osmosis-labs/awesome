@@ -32,12 +32,12 @@ main() {
 
 basic_setup() {
        sudo apt-get update -y && sudo apt-get upgrade -y
-       sudo apt-get install build-essential wget -y
+       sudo apt-get install build-essential jq wget -y
 }
 
 
 install_go() {
-        #sudo rm -rf /usr/local/go
+        sudo rm -rf /usr/local/go
         wget https://dl.google.com/go/go1.17.1.linux-amd64.tar.gz
         tar -xvf go1.17.1.linux-amd64.tar.gz
         sudo mv go /usr/local
