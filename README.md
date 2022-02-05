@@ -33,7 +33,7 @@ List of public resources, documents, and tools for Osmosis.
 - Notional's bus bar
   - 28f61c154c82f0122a841a12f8aa87703bd6ae1e@162.55.132.230:2000
 
-You'd want to add the bus bar as a persistent peer. It can accept a vast number of connections, and can be used in a manner analagous to a seed node since it will do PEX with you.  It is not a seed node. 
+You'd want to add the bus bar as a persistent peer. It can accept a vast number of connections, and can be used in a manner analogous to a seed node since it will do PEX with you.  It is not a seed node. 
 
 - Seed nodes
   - `2308bed9e096a8b96d2aa343acc1147813c59ed2@3.225.38.25:26656`
