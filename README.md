@@ -1,5 +1,5 @@
-# awesome
-List of public resources, documents, and tools for Osmosis.
+# Awesome Osmosis
+List of public resources, documents, and tools for Osmosis. This Awesome repo is also automatically published on the official [Osmosis Documentation site](https://docs.osmosis.zone/awesome/)
 
 ### Reading lists
 - [How to permissionlessly list tokens to Osmosis](./guides/token-listing.md)
@@ -25,6 +25,7 @@ List of public resources, documents, and tools for Osmosis.
 - [Stake Systems](https://www.notion.so/Stake-Systems-LCD-RPC-gRPC-Instances-04a99a9a9aa14247a42944931eec7024) - Snapshots taken everyday at 06:00 UTC / 18:00 UTC
 
 ### Publicly available endpoints
+- [Chain Registry](https://github.com/cosmos/chain-registry)
 - [DataHub](https://datahub.figment.io)
 - [Stake Systems](https://www.notion.so/Stake-Systems-LCD-RPC-gRPC-Instances-04a99a9a9aa14247a42944931eec7024) - LCD(REST)/RPC/gRPC
 - [Skynet Validator](http://202.61.192.186:26657/status) - RPC only
@@ -43,6 +44,7 @@ You'd want to add the bus bar as a persistent peer. It can accept a vast number 
 
 
 ### Documentation / Guides
+- [Osmosis Official Documentation](https://docs.osmosis.zone)
 - [Edge Validation](https://whimsical.com/validatron-PbUypC8tVMU8DxCFNLdDFu)
 - [Relaying](https://github.com/faddat/notional)
 - [Listing IBC tokens to Osmosis](./guides/token-listing.md)
