@@ -52,3 +52,6 @@ You'd want to add the bus bar as a persistent peer. It can accept a vast number 
 
 ### Decentralization and resilience tools
 - [Tradeberry](https://github.com/faddat/tradeberry) - Stateless rpi image that state syncs osmosis and allows access to the UI in a private, sovereign manner.
+
+### Wallet & Payments
+- [Easy Kelpr Transaction](https://github.com/alighasemzadeh/easy-keplr-connect) - Osmosis Laravel Mix Transaction Example.
