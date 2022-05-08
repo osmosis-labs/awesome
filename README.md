@@ -25,6 +25,7 @@ List of public resources, documents, and tools for Osmosis. This Awesome repo is
 - [Stake Systems](https://www.notion.so/Stake-Systems-LCD-RPC-gRPC-Instances-04a99a9a9aa14247a42944931eec7024) - Snapshots taken everyday at 06:00 UTC / 18:00 UTC
 
 ### Publicly available endpoints
+- [Official Osmosis Developers](https://rpc.dev-osmosis.zone/) 
 - [Chain Registry](https://github.com/cosmos/chain-registry)
 - [DataHub](https://datahub.figment.io)
 - [Stake Systems](https://www.notion.so/Stake-Systems-LCD-RPC-gRPC-Instances-04a99a9a9aa14247a42944931eec7024) - LCD(REST)/RPC/gRPC
