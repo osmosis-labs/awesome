@@ -10,28 +10,36 @@ List of public resources, documents, and tools for Osmosis. This Awesome repo is
 - [Ping.pub](https://ping.pub/osmosis)
 
 ### Analytics, Data, and Visualization
-- [Imperator Osmosis Dashboard](https://osmosis.imperator.co/)
+- [Imperator Osmosis Dashboard](https://info.osmosis.zone/)
 - [Map of Zones](https://mapofzones.com)
 - [Smartstake staking dashboard](https://osmosis.smartstake.io/)
 - [Cosmissed by Blockpane](https://github.com/blockpane/cosmissed)
 
 ### Relayer infrastructure providers
 - [Cephalopod Equipment](https://cephalopod.equipment/)
+- [CryptoCrew Validators](https://ccvalidators.com/)
 - [Vitwit](https://www.vitwit.com/)
 - [Notional](https://github.com/faddat/notional)
 
 ### Validator snapshots & syncing
+- [Quicksync by Chainlayer](https://quicksync.io/networks/osmosis.html)
+- [All That Node by DSRV](https://www.allthatnode.com/osmosis.dsrv)
 - [3Tekos Validator](https://3tekos.fr/#Archives)
 - [Stake Systems](https://www.notion.so/Stake-Systems-LCD-RPC-gRPC-Instances-04a99a9a9aa14247a42944931eec7024) - Snapshots taken everyday at 06:00 UTC / 18:00 UTC
 
 ### Publicly available endpoints
-- [Official Osmosis Developers](https://rpc.dev-osmosis.zone/) : `https://rpc.dev-osmosis.zone/`
-- [Chain Registry](https://github.com/cosmos/chain-registry) : `https://github.com/cosmos/chain-registry`
-- [DataHub](https://datahub.figment.io) : `https://datahub.figment.io`
+
+**Mainnet**
+- [Official Osmosis Developers](https://rpc.dev-osmosis.zone/) : `https://rpc.dev-osmosis.zone/` - Mainnet
+- [Chain Registry](https://github.com/cosmos/chain-registry) : `https://github.com/cosmos/chain-registry` - Mainnet
+- [All That Node by DSRV](https://www.allthatnode.com/osmosis.dsrv) : `https://www.allthatnode.com/osmosis.dsrv` - Mainnet / Mainnet Archive / Testnet with Faucet (LCD/REST, RPC, gRPC)
+- [DataHub](https://datahub.figment.io) : `https://datahub.figment.io` - Mainnet / Mainnet Archive (LCD/REST, RPC, gRPC)
 - [Stake Systems](https://www.notion.so/Stake-Systems-LCD-RPC-gRPC-Instances-04a99a9a9aa14247a42944931eec7024) - LCD(REST)/RPC/gRPC
-- [Skynet Validator](http://202.61.192.186:26657/status) - RPC only `http://202.61.192.186:26657/status`
 
 ### Archive Nodes
+
+Latest list of peers are published to [Osmosis Discord](https://discord.gg/osmosis) channel #peers-list
+
 - Notional's bus bar
   - 28f61c154c82f0122a841a12f8aa87703bd6ae1e@162.55.132.230:2000
 
