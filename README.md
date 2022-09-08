@@ -59,7 +59,7 @@ You'd want to add the bus bar as a persistent peer. It can accept a vast number 
 - [Osmosis Official Documentation](https://docs.osmosis.zone)
 - [Edge Validation](https://whimsical.com/validatron-PbUypC8tVMU8DxCFNLdDFu)
 - [Relaying](https://github.com/faddat/notional)
-- [Listing IBC tokens to Osmosis](./guides/token-listing.md)
+- [Listing IBC tokens to Osmosis](https://docs.osmosis.zone/docs/developing/guides/create-ibc-pool)
 - [Setting up a full node for Osmosis-1](https://catboss.medium.com/cat-boss-setting-up-a-fullnode-for-osmosis-osmosis-1-5f9752460f8f) / [Turning a full node into a validator node](https://catboss.medium.com/turning-a-full-node-in-to-a-validator-node-osmosis-1-36f3358f2412)
 
 ### Decentralization and resilience tools
