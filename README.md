@@ -2,7 +2,7 @@
 List of public resources, documents, and tools for Osmosis. This Awesome repo is also automatically published on the official [Osmosis Documentation site](https://docs.osmosis.zone/awesome/)
 
 ### Reading lists
-- [How to permissionlessly list tokens to Osmosis](https://github.com/osmosis-labs/awesome/blob/main/guides/token-listing.md)
+- [How to permissionlessly list tokens to Osmosis](https://docs.osmosis.zone/docs/developing/guides/create-ibc-pool)
 
 ### Block Explorers
 - [Mintscan](https://mintscan.io/osmosis)
