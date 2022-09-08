@@ -14,6 +14,7 @@ List of public resources, documents, and tools for Osmosis. This Awesome repo is
 - [Map of Zones](https://mapofzones.com)
 - [Smartstake staking dashboard](https://osmosis.smartstake.io/)
 - [Cosmissed by Blockpane](https://github.com/blockpane/cosmissed)
+- [Osmosis DEX Screener](https://dexscreener.com/osmosis)
 - [chain monitoring by Cros-Nest](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?orgId=1&var-chain_id=osmosis-1)
 
 ### Relayer infrastructure providers
