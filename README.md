@@ -67,3 +67,4 @@ You'd want to add the bus bar as a persistent peer. It can accept a vast number 
 
 ### Wallet & Payments
 - [Easy Kelpr Transaction](https://github.com/alighasemzadeh/easy-keplr-connect) - Osmosis Laravel Mix Transaction Example.
+- [walletOS](https://www.pinestreetlabs.com/walletos/) - An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
